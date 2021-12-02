@@ -64,7 +64,7 @@ class WnwProject:
 
         Returns
         -------
-        The path to the directory or file of interest
+        str: the path to the directory or file of interest
 
         Raises
         ------
